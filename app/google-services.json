@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104545299756",
+    "project_id": "outlay-cb13f",
+    "storage_bucket": "outlay-cb13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104545299756:android:9044403f9be58be1d35089",
+        "android_client_info": {
+          "package_name": "com.example.outlay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104545299756-tpn4ekndqgin44vo8ftnc680f81u7viv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.outlay",
+            "certificate_hash": "1a566c82822669da9b39905c7847bda04419c5ad"
+          }
+        },
+        {
+          "client_id": "104545299756-rcapcjkn9ccaq8fa9din04pmamrj4r38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJamFyTfHM_dV3-Wu-OjhPdWGmma9PSvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104545299756-rcapcjkn9ccaq8fa9din04pmamrj4r38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
